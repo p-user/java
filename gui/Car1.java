@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-public class Car extends JFrame {
+public class Car1 extends JFrame {
 	public static void main(String[] args) {
 		JFrame frame= new JFrame("Car's properties");
 		
